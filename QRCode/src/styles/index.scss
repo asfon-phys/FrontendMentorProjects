@@ -1,0 +1,12 @@
+:root {
+    background-color: hsl(212, 45%, 89%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    height: 100vh; // Full viewport height
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
